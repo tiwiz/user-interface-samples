@@ -10,7 +10,7 @@ Clone the [user-interface-samples](https://github.com/android/user-interface-sam
 
 ## Available Canonical layouts and related implementations
 - List-Detail
-    - [Activities](https://github.com/android/user-interface-samples/tree/main/CanonicalLayouts/list-detail-activity-embedding)
+    - [Activities](./list-detail-activity-embedding)
     - [Views and Fragments](https://github.com/android/user-interface-samples/tree/main/CanonicalLayouts/list-detail-sliding-pane)
     - [Jetpack Compose](https://github.com/android/user-interface-samples/tree/main/CanonicalLayouts/list-detail-compose)
 - Feed
